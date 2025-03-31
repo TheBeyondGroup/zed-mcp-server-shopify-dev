@@ -1,0 +1,10 @@
+id = "mcp_server_shopify_dev"
+name = "Shopify Dev MCP Server"
+description = "Model Context Protocol Server for Shopify Dev"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jeffrey Guenther <guenther.jeffrey@gmail.com>"]
+repository = "https://github.com/TheBeyondGroup/zed-mcp-server-shopify-dev"
+
+[context_servers.mcp-server-shopify-dev]
+name = "Shopify Dev MCP Server"
