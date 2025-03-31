@@ -1,4 +1,4 @@
-id = "mcp_server_shopify_dev"
+id = "mcp-server-shopify-dev"
 name = "Shopify Dev MCP Server"
 description = "Model Context Protocol Server for Shopify Dev"
 version = "0.0.1"
